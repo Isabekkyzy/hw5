@@ -1,0 +1,42 @@
+.form {
+    width: 550px;
+    height: 300px;
+    background:url(https://i.gifer.com/TUsz.gif);
+    border: 3px solid green;
+    text-align: center;
+    margin: 21px auto;
+    border-radius: 20px;
+    box-shadow: 4px 4px 8px black;
+    
+  }
+  
+  .form input {
+    margin: 20px;
+    font-weight: 15px;
+    font-size: 20px;
+    border-radius: 5px;
+    box-shadow: 2px 2px 4px black;
+  }
+  
+  .form select {
+    margin: 13px;
+    border-radius: 13px;
+    font-weight: 30px;
+    font-size: 15px;
+    box-shadow: 2px 2px 4px black;
+  }
+  .form textarea {
+    margin: 10px;
+    font-weight: 15px;
+    font-size: 15px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 4px black;
+  }
+  
+  .form button {
+    margin: 10px;
+    font-weight: 15px;
+    font-size: 15px;
+    border-radius: 5px;
+    box-shadow: 2px 2px 4px black;
+  }
